@@ -1,8 +1,5 @@
 {
   "projects": {
-    "BuilderRegistry": "builderegistry",
-    "default": "builderegistry"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "bulderregistry"
+  }
 }
