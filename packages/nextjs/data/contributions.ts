@@ -27,7 +27,7 @@ const contributionsData: Contributions[] = [
   {
     img: "/img/card-img.png",
     title: "SoulBound NFTs - The Membership Protocol",
-    description: "Developed a football game on the Ethereum platform",
+    description: "Developed a Football game on the Ethereum platform",
     contributorsId: {
       address: "0x016c",
       image: "/image.jpg",
